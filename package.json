@@ -1,0 +1,25 @@
+{
+  "name": "Binario2Decimal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro-Augusto-Barbosa-Aparecido/Binario2Decimal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedro-Augusto-Barbosa-Aparecido/Binario2Decimal/issues"
+  },
+  "homepage": "https://github.com/Pedro-Augusto-Barbosa-Aparecido/Binario2Decimal#readme",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
